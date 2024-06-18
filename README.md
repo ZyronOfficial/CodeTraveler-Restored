@@ -7,7 +7,7 @@ Please go to the new project for better usage.
 
 
 
-~~A nice code editor for Android!~~  
+~~A deprecated code editor for Android!~~  
 I have been working it out for serveral days.  
 Want More information about it?Please see the following items.  
 ## Abilities
